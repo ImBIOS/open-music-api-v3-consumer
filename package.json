@@ -1,0 +1,12 @@
+{
+  "name": "open-music-api-v3-consumer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.8.0",
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.6.2",
+    "pg": "^8.6.0"
+  }
+}
